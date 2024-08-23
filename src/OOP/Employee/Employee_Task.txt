@@ -1,0 +1,27 @@
+A class called Employee and a main method inside a class called EmpDriver
+
+This class contains a instance data and 5 methods
+
+The instance data:
+1.  The name
+2.  The salary
+3.  The work hours
+4.  The hire year
+
+
+The methods of this class are:
+
+1.  The employee constructor accepts 4 parameters that initialize the name, the salary, the work hours and the hire year.
+
+2.  The tax method computes the tax applied on the salary;
+    A-) No tax on a salary that is less than or equal to 1000 Turkish Lira
+    B-) %3 of tax ona salary that is more than 1000 Turkish Lira
+
+3.  The bonus method computes the employee's bonus based on the additional work hours. Such that he gets 30 Turkish Lira for an additional hour.
+
+4.  The RaiseSalary method computes the raise of employee's salary (consider the actual year is 2015)
+    A-) If he worked less than 10 years the raise of salary will be %5
+    B-) If he worked less than 20 years and more than 9 years the raise of salary will be 10%
+    C-) If he worked more than 19 years the raise of salary will be 15%
+
+5.  The toString method returns an information about the employee.
