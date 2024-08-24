@@ -5,16 +5,21 @@ This repository is for developers who are already familiar with Object-Oriented 
 
 - **Basics**: A brief introduction to Java fundamentals.
 - **OOP**: Key OOP concepts as implemented in Java.
+- **Collections**: A gentle introduction to collections in Java.
 
 ## Structure
 
 ### Basics
-- Java syntax overview
-- Data types, control structures, and basic methods
+- Java syntax overview.
+- Data types, control structures, and basic methods.
 
 ### OOP
-- Classes, inheritance, polymorphism, and interfaces
-- Quick examples to illustrate Java's OOP features
+- Classes, inheritance, polymorphism, and interfaces.
+- Quick examples to illustrate Java's OOP features.
+
+### Collections
+- ArrayList, LinkedList, Map, Queue, Sets, Stack, 2DArrays.
+- Added some basic examples.
 
 ## Purpose
 
